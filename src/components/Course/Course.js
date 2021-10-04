@@ -1,16 +1,8 @@
 import React from "react";
 import "./Course.css";
 const Course = (props) => {
-  const {
-    courseName,
-    instructor,
-    img,
-    decrip,
-    published,
-    language,
-    duration,
-    price,
-  } = props.course;
+  const { courseName, instructor, img, decrip, published, language, price } =
+    props.course;
   return (
     <div className="col">
       <div className="card h-100 card-bg">
