@@ -11,7 +11,7 @@ const About = () => {
       </h1>
       <div className="row">
         <div className="col-md-6">
-          <img src={image} alt="" />
+          <img className="img" src={image} alt="" />
         </div>
         <div className="col-md-6 about-details">
           <h2>1. Go to your own pace</h2>
