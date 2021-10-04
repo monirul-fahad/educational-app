@@ -1,0 +1,17 @@
+.banner {
+  padding-left: 180px;
+}
+.banner-style {
+  background-image: url(./image/banner-5.jpg);
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 92vh;
+}
+
+.banner-text {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  font-weight: 700;
+  line-height: 1.7em;
+}

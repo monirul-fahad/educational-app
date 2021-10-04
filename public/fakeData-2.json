@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "courseName": "Management Skills",
+        "instructor": "Lawrence M. Miller",
+        "price": "$28",
+        "published": " October 2021",
+        "language": "English",
+        "duration": "1h 30m",
+        "decrip": "Motivate your employees and create high engagement and empowerment. Leadership is critical for managers but anyone can lead at anytime. Learn key leadership skills and enhance your career.",
+        "img": "./images/12.jpg"
+      },
+      {
+        "id": 2,
+        "courseName": "Presentation Skills",
+        "instructor": "Gregory Caremans",
+        "price": "$19",
+        "published": "June 2022",
+        "language": "English",
+        "duration": "1h 25m",
+        "decrip": "Discover a model of Leadership that will help me manage myself. Discover your own communication strengths to build effective relationships in your professional or personal lives.",
+        "img": "./images/11.jpg"
+      },
+      {
+        "id": 3,
+        "courseName": "Think Like a Leader",
+        "instructor": "Brian Tracy",
+        "price": "$80",
+        "published": "January 2022",
+        "language": "English",
+        "duration": "2h 15m",
+        "decrip": "Build confidence towards becoming a leader both in the workplace and in life. This course will teach public speaking, communication skills and storytelling in an entirely new way.",
+        "img": "./images/5.jpg"
+      },
+      {
+        "id": 4,
+        "courseName": "Communication Skills for Management",
+        "instructor": "Kain Ramsay",
+        "price": "$56",
+        "published": "Aprill 2022",
+        "language": "English",
+        "duration": "1h 30m",
+        "decrip": "Discover your own communication strengths to build effective relationships in your professional or personal lives. Motivate your employees and create high engagement and empowerment.",
+        "img": "./images/13.jpg"
+      }
+]

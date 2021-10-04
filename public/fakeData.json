@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "courseName": "Management Skills",
+      "instructor": "Lawrence M. Miller",
+      "price": "$28",
+      "published": " October 2020",
+      "language": "English",
+      "duration": "1h 30m",
+      "decrip": "Motivate your employees and create high engagement and empowerment. Leadership is critical for managers.",
+      "img": "./images/12.jpg"
+    },
+    {
+      "id": 2,
+      "courseName": "Presentation Skills",
+      "instructor": "Gregory Caremans",
+      "price": "$19",
+      "published": "June 2020",
+      "language": "English",
+      "duration": "1h 25m",
+      "decrip": "Presentation skills are the skills you need in delivering effective and engaging presentations to a variety of audiences.",
+      "img": "./images/11.jpg"
+    },
+    {
+      "id": 3,
+      "courseName": "Think Like a Leader",
+      "instructor": "Brian Tracy",
+      "price": "$80",
+      "published": "January 2021",
+      "language": "English",
+      "duration": "2h 15m",
+      "decrip": "Build confidence towards becoming a lifelong transformational leader both in the workplace and in your life",
+      "img": "./images/5.jpg"
+    },
+    {
+      "id": 4,
+      "courseName": "Communication Skills",
+      "instructor": "Kain Ramsay",
+      "price": "$56",
+      "published": "Aprill 2021",
+      "language": "English",
+      "duration": "1h 30m",
+      "decrip": "Discover your own communication strengths to build effective relationships in your professional or personal lives.",
+      "img": "./images/13.jpg"
+    },
+    {
+      "id": 5,
+      "courseName": "Public Speaking: Skills & Tools",
+      "instructor": "Steve Ballinger",
+      "price": "$45",
+      "published": "September 2021",
+      "language": "English",
+      "duration": "1h 45m",
+      "decrip": "Deliver an Unforgettable Presentation Experience: We will discuss how to deliver your masterpiece + using the best body language.",
+      "img": "./images/14.jpg"
+    },
+    {
+      "id": 6,
+      "courseName": "Master your Decision-Making",
+      "instructor": "Sivakami S",
+      "price": "$14",
+      "published": "May 2019",
+      "language": "English",
+      "duration": "45m",
+      "decrip": "Research Based Decision Making, Problem Solving & Critical Thinking Strategies; for Leaders, Managers, & everyone else.",
+      "img": "./images/15.jpg"
+    },
+    {
+      "id": 7,
+      "courseName": "Goal Setting to Success",
+      "instructor": "Stuart Lancaster",
+      "price": "$17",
+      "published": "August 2020",
+      "language": "English",
+      "duration": "1h 30m",
+      "decrip": "Apply techniques, strategies and new perspectives to their lives, to become the most successful version of themselves",
+      "img": "./images/16.jpg"
+    },
+    {
+      "id": 8,
+      "courseName": "Career Development",
+      "instructor": "Andrew LeMasters",
+      "price": "$22",
+      "published": "July 2021",
+      "language": "English",
+      "duration": "1h 15m",
+      "decrip": "Deep and Enlightening Insights, and Lessons, from the Research on Integrity, Ethics and Morality, for today's world ",
+      "img": "./images/17.jpg"
+    },
+    {
+      "id": 9,
+      "courseName": "Creative Writing Skills",
+      "instructor": "Jesse Lara",
+      "price": "$30",
+      "published": "March 2022",
+      "language": "English",
+      "duration": "2h 30m",
+      "decrip": "Write a novel or non-fiction book. Creative writing skills for beginners. Writers write by writing! World Building!",
+      "img": "./images/18.jpg"
+    }
+  ]
