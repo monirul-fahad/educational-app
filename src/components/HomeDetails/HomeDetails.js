@@ -1,4 +1,6 @@
 import React from "react";
+import { Button } from "react-bootstrap";
+
 import "./HomeDetails.css";
 const HomeDetails = (props) => {
   const { courseName, instructor, img, decrip, published } = props.card;
@@ -17,6 +19,9 @@ const HomeDetails = (props) => {
             <small>Starting on: {published}</small>
           </p>
           <p class="card-text fw-bold">{decrip}</p>
+        </div>
+        <div className="mx-auto my-3">
+          <Button variant="outline-success fw-bold px-4">More Details</Button>
         </div>
       </div>
     </div>

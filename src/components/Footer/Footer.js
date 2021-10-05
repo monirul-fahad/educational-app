@@ -10,24 +10,24 @@ const Footer = () => {
           &copy; 2021 Skillify Education Private Limited. All rights reserved.
         </p>
         <div>
-          <ul className="list-unstyled footer-icon d-flex gap-4">
-            <li>
-              <a href="/" target="_blank">
+          <ul className="list-unstyled d-flex gap-4">
+            <li className="li">
+              <a className="a" href="/" target="_blank">
                 <GrFacebookOption />{" "}
               </a>
             </li>
-            <li>
-              <a href="/" target="_blank">
+            <li className="li">
+              <a className="a" href="/" target="_blank">
                 <GrTwitter />{" "}
               </a>
             </li>
-            <li>
-              <a href="/" target="_blank">
+            <li className="li">
+              <a className="a" href="/" target="_blank">
                 <GrLinkedinOption />{" "}
               </a>
             </li>
-            <li>
-              <a href="/" target="_blank">
+            <li className="li">
+              <a className="a" href="/" target="_blank">
                 <FaInstagram />{" "}
               </a>
             </li>

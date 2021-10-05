@@ -5,7 +5,7 @@ const Course = (props) => {
     props.course;
   return (
     <div className="col">
-      <div className="card h-100 card-bg">
+      <div className="card h-100 shadow ">
         <img src={img} className="card-img-top img-size" alt="..." />
         <div className="card-body">
           <h4 className="card-title text-center fw-bold">{courseName}</h4>
