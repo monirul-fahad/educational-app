@@ -5,8 +5,8 @@ import "./Header.css";
 
 const Header = () => {
   const activeStyle = {
-    fontWeight: "bold",
-    color: "white",
+    fontWeight: "bolder",
+    color: "green",
   };
   return (
     <Navbar bg="dark" variant="dark">
